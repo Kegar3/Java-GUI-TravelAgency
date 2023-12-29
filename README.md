@@ -1,2 +1,2 @@
 # Java-GUI-TravelAgency
-This is a simple application written in Java where you can create tickets and save them. After that you can load them on your screen.
+A travel agency issues and manages airline tickets. The data recorded for each ticket is as follows: [1] The ticket code (ticket id) [2] The issue date [3] The full name of the traveller (client name) [in one field] [4] The itinerary (itinerary - e.g. Athens-London)1 [in one field] [5] The cost of the ticket (with two decimal places) In addition to these data, you will be required to add 4 other data of your choice, which could be included in a real ticket. The object of the project is to develop a Java application with GUI, which allows to issue and manage the above mentioned airline tickets.
